@@ -5,7 +5,7 @@ Juno-朱诺号卫星探测器，分为Juno-VI和Juno-metrics，Juno-Admin
 ## 竞品分析
 
 ### Java埋点框架
-*蚂蚁-SOFALookout-server端目前未开源
+* 蚂蚁-SOFALookout-server端目前未开源
  - https://github.com/alipay/sofa-lookout
 
 *阿里metrics-metrics 
