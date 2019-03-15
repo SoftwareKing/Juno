@@ -1,5 +1,5 @@
 ## Juno
-Juno-朱诺号探测器，分为Juno-VI和Juno-metrics
+Juno-朱诺号卫星探测器，分为Juno-VI和Juno-metrics，Juno-Admin
 
 ## 竞品分析
 
